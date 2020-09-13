@@ -1,0 +1,5 @@
+Name: Run MPlus file
+Description: Run an open .inp file and open the .out file in RStudio
+Binding: run_mplus
+Interactive: false
+
