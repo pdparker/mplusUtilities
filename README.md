@@ -18,6 +18,8 @@ opens the output file after it finishes. The add in uses the
 [MplusAutomation
 package](https://github.com/michaelhallquist/MplusAutomation).
 
+<img src="fig/run_mplus.gif" alt="gif of run_mplus" style="width:450px;height:600px;">
+
 ## Installation
 
 Install from [GitHub](https://github.com/) with:

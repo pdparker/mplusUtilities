@@ -23,6 +23,8 @@ knitr::opts_chunk$set(
 The goal of mplusUtilities is to add some of functionality present in 
 the MPlus package for [Sublimetext](https://github.com/bkeller2/Mplus). So far I just have a single add-in that runs an mplus input file and opens the output file after it finishes. The add in uses the [MplusAutomation package](https://github.com/michaelhallquist/MplusAutomation).
 
+<img src="fig/run_mplus.gif" alt="gif of run_mplus" style="width:450px;height:600px;">
+
 ## Installation
 
 Install from [GitHub](https://github.com/) with:
